@@ -1,0 +1,14 @@
+{
+  "name": "csscomb-testcase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayman Rady <ayman.rady@creiden.com>",
+  "license": "GPL-2.0+",
+  "dependencies": {
+    "csscomb": "^3.1.0"
+  }
+}
